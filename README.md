@@ -8,3 +8,12 @@ princess diana animated portrait in  css
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <a>__*JavaScript*__</a>
 
 ***
+## Tela Principal do Retrato
+
+![Rainha](https://user-images.githubusercontent.com/71552773/189640788-ae858af3-e929-4dc4-8f0c-1e1e44339e61.PNG)
+
+***
+## Agradecimento
+Gostaria de agradecer ao Peter Kimanzi, por deixar esse trabalho publico, assim consegui estudar e desenvolver aqui.
+Gosto muito da Familia Real e adorei esse trabalho. 
+***
