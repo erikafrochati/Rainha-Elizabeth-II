@@ -1,4 +1,4 @@
-# *Princess-Diana-Spencer-Portrait*
+# *Rainha Elizabeth II - Portrait*
 princess diana animated portrait in  css
 ***
 ## *Technologies used*
