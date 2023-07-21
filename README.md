@@ -13,7 +13,11 @@ Rainha Elizabeth II animated portrait in  css
 ![Rainha](https://user-images.githubusercontent.com/71552773/189640788-ae858af3-e929-4dc4-8f0c-1e1e44339e61.PNG)
 
 ***
-## Agradecimento
-Gostaria de agradecer ao Peter Kimanzi, por deixar esse trabalho publico, assim consegui estudar e desenvolver aqui.
+## Agradecimentos :clap:
+
+* Primeiramente a Deus. 
+* Meus sinceros agradecimentos a todos que visitam o projeto e deixa uma estrela como reconhecimento.
+* Gostaria de agradecer ao Peter Kimanzi, por deixar esse trabalho publico, assim consegui estudar e desenvolver aqui.
 Gosto muito da Familia Real e adorei esse trabalho. 
+
 ***
