@@ -15,7 +15,8 @@ Rainha Elizabeth II animated portrait in  css
 ***
 ## Agradecimentos :clap:
 
-* Primeiramente a Deus. 
+* Primeiramente a Deus.
+* Se você achar que esse projeto agregou algo para você, por favor deixe uma estrela.
 * Meus sinceros agradecimentos a todos que visitam o projeto e deixa uma estrela como reconhecimento.
 * Gostaria de agradecer ao Peter Kimanzi, por deixar esse trabalho publico, assim consegui estudar e desenvolver aqui.
 Gosto muito da Familia Real e adorei esse trabalho. 
